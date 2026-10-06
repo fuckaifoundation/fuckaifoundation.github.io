@@ -1,0 +1,1 @@
+[https://spdx.org/licenses/CC0-1.0](https://spdx.org/licenses/CC0-1.0)
